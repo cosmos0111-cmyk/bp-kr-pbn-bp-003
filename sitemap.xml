@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cosmos0111-cmyk.github.io/bp-kr-pbn-bp-003/</loc>
-    <lastmod>2026-06-09</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cosmos0111-cmyk.github.io/bp-kr-pbn-bp-003/posts/interview-001-9dk8xv.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://cosmos0111-cmyk.github.io/bp-kr-pbn-bp-003/posts/review-001-i3rijl.html</loc>
@@ -13,8 +19,14 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cosmos0111-cmyk.github.io/bp-kr-pbn-bp-003/posts/t3link-002-9dk8xv.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://cosmos0111-cmyk.github.io/bp-kr-pbn-bp-003/feed.xml</loc>
-    <lastmod>2026-06-09</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
